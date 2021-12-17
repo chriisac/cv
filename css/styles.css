@@ -62,7 +62,7 @@ a {
 .bottom-cloud {
   bottom: 300px;
   left: 300px;
-  position: absolute;
+  position: relative;
 }
 
 .profile-picture {
