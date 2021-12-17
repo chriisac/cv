@@ -1,2 +1,2 @@
-## This is a Personal Site
+## This is my Personal Site
 contact me chriisac@gmail.com
