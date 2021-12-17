@@ -50,6 +50,7 @@ h3 {
     padding: 20px;
 }
 a {
+    text-decoration: none;
     margin: 0 10px;
     color: #11999E;
 }
